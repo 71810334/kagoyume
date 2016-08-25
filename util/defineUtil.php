@@ -1,0 +1,19 @@
+<?php
+const root_URL              = 'http://localhost/ECsite/app';                                 //indexディレクトリへのURL
+const top                   = 'top.php';                           //トップページ
+const search                = 'search.php';                        //検索結果ページ
+const item                  = 'item.php';                          //商品詳細ページ
+const add                   = 'add.php';                           //カートに追加ページ
+const login                 = 'login.php';                         //ログイン管理ページ
+const registration          = 'registration.php';                         //新規会員登録ページ
+const registration_confirm  = 'registration_confirm.php';                         //会員登録確認ページ
+const registration_complete = 'registration_complete.php';                          //会員登録完了ページ
+const cart                  = 'cart.php';                          //カートページ
+const buy_confirm           = 'buy_confirm.php';                   //購入確認ページ
+const buy_complete          = 'buy_complete.php';                  //購入完了ページ
+const my_data               = 'my_data.php';                       //登録ユーザー情報ページ
+const my_history            = 'my_history.php';                    //購入履歴ページ
+const my_update             = 'my_update.php';                     //データ更新ページ
+const my_update_result      = 'my_update_result.php';              //データ更新完了ページ
+const my_delete             = 'my_delete.php';                     //ユーザー削除確認ページ
+const my_delete_result      = 'my_delete_result.php';              //ユーザー削除完了ページ
